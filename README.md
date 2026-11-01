@@ -1,0 +1,2 @@
+# Cloud-Application-Performance-Monitoring-and-Alerting-System
+A Cloud Application Performance Monitoring and Alerting System designed to monitor cloud application health, performance, resource utilization, and availability. It focuses on collecting metrics, logs, and traces, identifying performance issues, evaluating alert thresholds, and notifying teams to reduce downtime and improve application reliability.
